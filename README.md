@@ -1,0 +1,1 @@
+This project containes a folder "job portal" and two seperate folders "backend" and "frontend". These two folders are same as the folders which are present inside the "job portal" folder. You can only download the "job portal" folder and you will be good to go !
